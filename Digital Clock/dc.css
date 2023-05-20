@@ -1,0 +1,11 @@
+#clock {
+    font-size: 170px;
+    width: 900px;
+    margin: 200px;
+    text-align: center;
+    -webkit-text-fill-color: aliceblue;
+    background-color: black;
+}
+body{
+    background-color:black;
+}
